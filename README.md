@@ -15,7 +15,7 @@ This project is a web scraper designed to extract job listings and detailed job 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/arbeitsagentur-scraper.git
+    git clone https://github.com/smabdulrt/Arbeitsagentur_scraper.git
     cd arbeitsagentur-scraper
     ```
 
